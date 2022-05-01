@@ -6,6 +6,7 @@
     top: 0;
     z-index: 3;
     min-height: 500px;
+    font-family: 'Helvetica';
 
     .logo {
         display: block;
@@ -115,7 +116,7 @@
                 line-height: 16px;
                 color: #4d4d4e;
 
-                .nav-bar ul li a svg {
+                svg {
                     color: #4d4d4e;
                     transition: 0.6s;
                 }
